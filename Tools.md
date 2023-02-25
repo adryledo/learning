@@ -7,6 +7,8 @@ The automatic type-safe REST library for .NET Core, Xamarin and .NET
 
 - Polly
 
+- Redis
+
 ------
 
 ## Error handling
@@ -31,7 +33,7 @@ A simple, fluent, extensible, and fully customizable library for throwing except
 
 ------
 
-## Testing
+## Testing, QA and performance
 
 - [**AutoBogus**:](https://github.com/nickdodd79/AutoBogus#autobogus)
 Realistic fake data generator
@@ -41,6 +43,14 @@ Realistic fake data generator
 - Moq
 
 - SpecFlow
+
+- Verify
+
+- Selenium
+
+- Benchmark.net
+
+- SonarQube
 
 ------
 
@@ -62,6 +72,28 @@ Realistic fake data generator
 
 - Respawn
 
+- Liquibase
+
+------
+
+## Logging and metrics
+
+- Serilog
+
+- OpenTelemetry
+
+- Grafana
+
+------
+
+## CICD
+
+- GitHub Actions
+
+- Dependabot
+
+- KeyVault, AppConfig/FeatureFlags
+
 ------
 
 - [**Mapster**](https://github.com/MapsterMapper/Mapster#generating-models--mappers)
@@ -79,9 +111,8 @@ A Source Generator package that generates extension methods for enums, to allow 
 
 - CsvHelper
 
-Scrutor
+- Scrutor
 
-Serilog
+- MediatR
 
-MediatR
-
+- HangFire
