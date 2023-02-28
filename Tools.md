@@ -52,6 +52,8 @@ Realistic fake data generator
 
 - SonarQube
 
+- Fody.MethodTimer
+
 ------
 
 ## Local development
@@ -64,6 +66,8 @@ Realistic fake data generator
 
 - Localstack
 
+- TestContainers
+
 ------
 
 ## Database
@@ -71,6 +75,8 @@ Realistic fake data generator
 - Dapper
 
 - Respawn
+
+- DbApp
 
 - Liquibase
 
