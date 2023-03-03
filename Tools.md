@@ -90,6 +90,8 @@ Realistic fake data generator
 
 - Grafana
 
+- ElasticSearch
+
 ------
 
 ## CICD
@@ -122,3 +124,9 @@ A Source Generator package that generates extension methods for enums, to allow 
 - MediatR
 
 - HangFire
+
+------
+
+## Programs & tools
+
+- Sharplab
